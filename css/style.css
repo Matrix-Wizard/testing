@@ -7,3 +7,8 @@ p {
 body {
   background-color: green;
 }
+
+.section {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
